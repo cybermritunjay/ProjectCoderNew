@@ -125,7 +125,7 @@
 
 #coding-images {
     display: inline-block;
-
+    height: 100%;
 }
 
 #coding-images>img {
